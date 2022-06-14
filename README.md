@@ -1,0 +1,2 @@
+# Potato-Disease-Classification
+A neural network trained to classify the Potato leaves whether it's healthy or not. The model was trained on the Kaggle dataset containing 2500 images . It has three classes, one is healthy, second is early blight and third one is late blight. Model predicts the stage of disease which can help farmers to take right action against the disease and protect the crop from being wasted.
